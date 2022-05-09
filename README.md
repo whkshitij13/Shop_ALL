@@ -1,4 +1,4 @@
-# Welcome to ShopPoint! ✨
+# Welcome to Shop_ALL
 
 
 ![screenshot](image/home.PNG)
