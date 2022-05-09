@@ -1,7 +1,5 @@
 # Welcome to ShopPoint! ✨
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://shoppingpoint.herokuapp.com/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://shoppingpoint.herokuapp.com/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://foodeazy.herokuapp.com/)&nbsp;[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://shoppingpoint.herokuapp.com/)&nbsp;![Made with love in Nepal](https://madewithlove.now.sh/np?heart=true)
-
 
 ![screenshot](image/home.PNG)
 
@@ -124,5 +122,3 @@ yarn start
 ```
 
 **5.** **🎉 Open your browser and go to `https://localhost:3000`**
-
-## 🤩 Don't forget to give this repo a ⭐ if you like this repo and want to appreciate our efforts
